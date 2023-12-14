@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Voting
-//
-//  Created by Yuma on 2023/12/15.
-//
-
 import SwiftUI
 
 struct ContentView: View {

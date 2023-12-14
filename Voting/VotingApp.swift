@@ -1,11 +1,5 @@
-//
-//  VotingApp.swift
-//  Voting
-//
-//  Created by Yuma on 2023/12/15.
-//
-
 import SwiftUI
+import Firebase
 
 @main
 struct VotingApp: App {
